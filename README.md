@@ -15,6 +15,16 @@
         new file:   README.md
         new file:   package.json
 
+### 2.2.2 (Install next, react, react-dom) Setup react nextjs client
+
+      >> npm install next react react-dom
+      > add scripts to package.json file
+        modified:   .gitignore
+        modified:   README.md
+        new file:   package-lock.json
+        modified:   package.json
+
+
 2. Layout component
 3. Head section
 4. Link component
