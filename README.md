@@ -24,6 +24,12 @@
         new file:   package-lock.json
         modified:   package.json
 
+### 2.3.3 (Hello world ...) Setup react nextjs client
+
+        ...
+        new file:   .next/static/webpack/14399bc454f2b6a3731d.hot-update.json
+        modified:   README.md
+        new file:   pages/index.js
 
 2. Layout component
 3. Head section
