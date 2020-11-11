@@ -31,6 +31,13 @@
         modified:   README.md
         new file:   pages/index.js
 
+### 2.4.4 (Using errow function) Setup react nextjs client
+
+        modified:   .gitignore
+        ...
+        modified:   README.md
+        modified:   pages/index.js
+
 2. Layout component
 3. Head section
 4. Link component
