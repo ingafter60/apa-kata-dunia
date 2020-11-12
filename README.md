@@ -1,5 +1,7 @@
 # APA KATA DUNIA - USING MERN
 
+https://github.com/ingafter60/apa-kata-dunia
+
 1.  Introduction
 
 01.1.1. What we will build
@@ -52,6 +54,11 @@
         modified:   README.md
         modified:   components/Layout.js
         modified:   pages/index.js
+
+### Github repository
+
+        https://github.com/ingafter60/apa-kata-dunia
+       modified:   README.md
 
 
 02.3.7 Head section
