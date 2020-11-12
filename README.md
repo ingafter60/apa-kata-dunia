@@ -77,8 +77,14 @@ https://github.com/ingafter60/apa-kata-dunia
         modified:   README.md
         modified:   components/Layout.js
 
+### 02.4.8 (1/2 - Create login and register pages) Link component
 
-02.4.8 Link component
+        new file:   pages/login.js
+        new file:   pages/register.js
+
+
+### 02.4.8 Link component
+
 02.5.9 Nav progress bar
 02.6.10 Loading css
 02.7.11 Register page
