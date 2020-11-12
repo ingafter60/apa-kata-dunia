@@ -9,15 +9,22 @@ https://github.com/ingafter60/apa-kata-dunia
 01.3.3. Application workflow
 01.4.4. Finished project demo
 
+02.3.7 Head section
+02.4.8 Link component
+02.5.9 Nav progress bar
+02.6.10 Loading css
+02.7.11 Register page
+02.8.12 Client folder setup and next steps
+
 ## 02. React - Next Js Client
 
-### 02.1.5.1 (Initial commit) Setup react nextjs client
+### 02.1.5 (1/2 - Initial commit) Setup react nextjs client
 
         new file:   .gitignore
         new file:   README.md
         new file:   package.json
 
-### 02.1.5.2 (Install next, react, react-dom) Setup react nextjs client
+### 02.1.5 (2/2 - Install next, react, react-dom) Setup react nextjs client
 
       >> npm install next react react-dom
       > add scripts to package.json file
@@ -26,21 +33,21 @@ https://github.com/ingafter60/apa-kata-dunia
         new file:   package-lock.json
         modified:   package.json
 
-### 02.2.6.1 (Hello world ...) Layout component
+### 02.2.6 (1/4 - (Hello world ...) Layout component
 
         ...
         new file:   .next/static/webpack/14399bc454f2b6a3731d.hot-update.json
         modified:   README.md
         new file:   pages/index.js
 
-### 02.2.6.2 (Using errow function) Layout component
+### 02.2.6 (2/4 - Using errow function) Layout component
 
         modified:   .gitignore
         ...
         modified:   README.md
         modified:   pages/index.js
 
-### 02.2.6.3 (Using props) Layout component
+### 02.2.6 (3/4 - Using props) Layout component
 
         modified:   README.md (re-numbering README file)
         new file:   components/Layout.js
@@ -49,7 +56,7 @@ https://github.com/ingafter60/apa-kata-dunia
         new file:   packageORI.json
         modified:   pages/index.js
 
-### 02.2.6.4 (de-structuring props) Layout component
+### 02.2.6 (4/4 - destructuring props) Layout component
 
         modified:   README.md
         modified:   components/Layout.js
@@ -60,8 +67,11 @@ https://github.com/ingafter60/apa-kata-dunia
         https://github.com/ingafter60/apa-kata-dunia
        modified:   README.md
 
+### 02.3.7 (1/2 - Adding Bootstrap 4) Head section
 
-02.3.7 Head section
+        modified:   README.md
+        modified:   components/Layout.js
+
 02.4.8 Link component
 02.5.9 Nav progress bar
 02.6.10 Loading css
