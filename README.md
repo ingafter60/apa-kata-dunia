@@ -87,7 +87,16 @@ https://github.com/ingafter60/apa-kata-dunia
         modified:   README.md
         modified:   components/Layout.js
 
-02.5.9 Nav progress bar
+### 02.5.9 Nav progress bar
+
+      >> npm install nprogess
+        modified:   .gitignore
+        ...
+        modified:   README.md
+        modified:   components/Layout.js
+        modified:   package-lock.json
+        modified:   package.json
+
 02.6.10 Loading css
 02.7.11 Register page
 02.8.12 Client folder setup and next steps

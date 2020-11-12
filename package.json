@@ -9,11 +9,12 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "ING",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.4.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^9.1.7",
+    "nprogress": "^0.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   }
 }
