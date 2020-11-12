@@ -38,7 +38,7 @@
         modified:   README.md
         modified:   pages/index.js
 
-### 02.2.6.3 (Using pros) Layout component
+### 02.2.6.3 (Using props) Layout component
 
         modified:   README.md (re-numbering README file)
         new file:   components/Layout.js
@@ -46,6 +46,13 @@
         modified:   package.json
         new file:   packageORI.json
         modified:   pages/index.js
+
+### 02.2.6.4 (de-structuring props) Layout component
+
+        modified:   README.md
+        modified:   components/Layout.js
+        modified:   pages/index.js
+
 
 02.3.7 Head section
 02.4.8 Link component
