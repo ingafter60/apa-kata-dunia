@@ -1,21 +1,21 @@
 # APA KATA DUNIA - USING MERN
 
-1. Introduction
+1.  Introduction
 
-1. What we will build
-1. Aim of the project
-1. Application workflow
-1. Finished project demo
+01.1.1. What we will build
+01.2.2. Aim of the project
+01.3.3. Application workflow
+01.4.4. Finished project demo
 
-## 2. React - Next Js Client
+## 02. React - Next Js Client
 
-### 2.1.1 (Initial commit) Setup react nextjs client
+### 02.1.5.1 (Initial commit) Setup react nextjs client
 
         new file:   .gitignore
         new file:   README.md
         new file:   package.json
 
-### 2.2.2 (Install next, react, react-dom) Setup react nextjs client
+### 02.1.5.2 (Install next, react, react-dom) Setup react nextjs client
 
       >> npm install next react react-dom
       > add scripts to package.json file
@@ -24,161 +24,169 @@
         new file:   package-lock.json
         modified:   package.json
 
-### 2.3.3 (Hello world ...) Setup react nextjs client
+### 02.2.6.1 (Hello world ...) Layout component
 
         ...
         new file:   .next/static/webpack/14399bc454f2b6a3731d.hot-update.json
         modified:   README.md
         new file:   pages/index.js
 
-### 2.4.4 (Using errow function) Setup react nextjs client
+### 02.2.6.2 (Using errow function) Layout component
 
         modified:   .gitignore
         ...
         modified:   README.md
         modified:   pages/index.js
 
-2. Layout component
-3. Head section
-4. Link component
-5. Nav progress bar
-6. Loading css
-7. Register page
-8. Client folder setup and next steps
+### 02.2.6.3 (Using pros) Layout component
 
-9. Node Js API
+        modified:   README.md (re-numbering README file)
+        new file:   components/Layout.js
+        modified:   package-lock.json
+        modified:   package.json
+        new file:   packageORI.json
+        modified:   pages/index.js
 
-10. Server setup
-11. Routes
-12. Controllers
-13. User schema
-14. Virtual field and methods
-15. More NPM packages
-16. Axios post request
-17. Validation
-18. Mongo atlas
+02.3.7 Head section
+02.4.8 Link component
+02.5.9 Nav progress bar
+02.6.10 Loading css
+02.7.11 Register page
+02.8.12 Client folder setup and next steps
 
-19. Starting with AWS
+3.  Node Js API
 
-20. AWS signup
-21. AWS SES for sending email
+03.1.13 Server setup
+03.2.14 Routes
+03.3.15 Controllers
+03.4.16 User schema
+03.5.17 Virtual field and methods
+03.6.18 More NPM packages
+03.7.19 Axios post request
+03.8.20 Validation
+03.9.21 Mongo atlas
 
-22. Login - Register - AWS SES
+4.  Starting with AWS
 
-23. Register activation email
-24. Register email params
-25. Success and error messages
-26. Async await
-27. Environment variables with nextjs
-28. Activate account - client
-29. Activate account - server
-30. Login - server
-31. Login - client
-32. Local storage and cookie helpers
-33. Save user token in browser cookie
-34. Redirect based on role
-35. Logout and conditional rendering
+04.1.22 AWS signup
+04.2.23 AWS SES for sending email
 
-36. User - Admin Access
+5.  Login - Register - AWS SES
 
-37. Express JWT middleware
-38. Auth and admin middleware
-39. User profile - server
-40. SSR and getInitialProps
-41. Auth routes server side
-42. withUser and withAdmin HOC
+05.1.24 Register activation email
+05.2.25 Register email params
+05.3.26 Success and error messages
+05.4.27 Async await
+05.5.28 Environment variables with nextjs
+05.6.29 Activate account - client
+05.7.30 Activate account - server
+05.8.31 Login - server
+05.9.32 Login - client
+05.10.33 Local storage and cookie helpers
+05.11.34 Save user token in browser cookie
+05.12.35 Redirect based on role
+05.13.36 Logout and conditional rendering
 
-43. Password Forgot - Reset
+6.  User - Admin Access
 
-44. What's next?
-45. Forgot password - server
-46. Reset password - server
-47. Forgot password - client
-48. Reset password - client
+06.1.37 Express JWT middleware
+06.2.38 Auth and admin middleware
+06.3.39 User profile - server
+06.4.40 SSR and getInitialProps
+06.5.41 Auth routes server side
+06.6.42 withUser and withAdmin HOC
 
-49. Categories - Uploads - AWS S3
+7.  Password Forgot - Reset
 
-50. Category schema
-51. Category routes and controllers setup
-52. Trying create category with postman
-53. AWS S3
-54. Uploading images to S3 using form data
-55. Create category - client
-56. Show all categories
-57. Uploading base64 image to S3
-58. Image resize client side and upload
-59. Rich text editor
+07.1.43 What's next?
+07.2.44 Forgot password - server
+07.3.45 Reset password - server
+07.4.46 Forgot password - client
+07.5.47 Reset password - client
 
-60. Links
+8.  Categories - Uploads - AWS S3
 
-61. Link schema
-62. Link validators routes and controllers
-63. Link create and read - server
-64. Steps to create/submit link - client
-65. Submit link page part 1
-66. Submit link page part 2
-67. Submit link page part 3
-68. Submit link page part 4
-69. Submit link page part 5
-70. Single category with links - server
-71. Single category page with links part 1
-72. Single category page with links part 2
+08.1.48 Category schema
+08.2.49 Category routes and controllers setup
+08.3.50 Trying create category with postman
+08.4.51 AWS S3
+08.5.52 Uploading images to S3 using form data
+08.6.53 Create category - client
+08.7.54 Show all categories
+08.8.55 Uploading base64 image to S3
+08.9.56 Image resize client side and upload
+08.10.57 Rich text editor
 
-73. Load More - Click Count - Infinite Scroll
+9.  Links
 
-74. Load more
-75. Click count - server
-76. Click count - client
-77. Infinite scrolling
+09.1.58 Link schema
+09.2.59 Link validators routes and controllers
+09.3.60 Link create and read - server
+09.4.61 Steps to create/submit link - client
+09.5.62 Submit link page part 1
+09.6.63 Submit link page part 2
+09.7.64 Submit link page part 3
+09.8.65 Submit link page part 4
+09.9.66 Submit link page part 5
+09.10.67 Single category with links - server
+09.11.68 Single category page with links part 1
+09.12.69 Single category page with links part 2
 
-78. Category Update - Delete
+10. Load More - Click Count - Infinite Scroll
 
-79. Next steps
-80. Categories read - admin
-81. Update delete buttons and warnings
-82. Update category - server
-83. Delete category - server
-84. Delete category - client
-85. Reset mongo atlas database and AWS S3
-86. Update category - client
+10.1.70 Load more
+10.2.71 Click count - server
+10.3.72 Click count - client
+10.4.73 Infinite scrolling
 
-87. User can Update - Delete
+11. Category Update - Delete
 
-88. All links by user
-89. User dashboard part 1
-90. User dashboard part 2
-91. Update delete link - server
-92. Update link - client
+11.1.74 Next steps
+11.2.75 Categories read - admin
+11.3.76 Update delete buttons and warnings
+11.4.77 Update category - server
+11.5.78 Delete category - server
+11.6.79 Delete category - client
+11.7.80 Reset mongo atlas database and AWS S3
+11.8.81 Update category - client
 
-93. Admin Update - Delete Access
+12. User can Update - Delete
 
-94. All links for admin - server
-95. All links for admin - client
-96. canUpdateDeleteLink middleware
-97. Delete any link by admin
-98. Update any link by admin
+12.1.82 All links by user
+12.2.83 User dashboard part 1
+12.3.84 User dashboard part 2
+12.4.85 Update delete link - server
+12.5.86 Update link - client
 
-99. Profile Update - Mass Email - AWS SES
+13. Admin Update - Delete Access
 
-100. Choose favourite category on user registration - client
-101. Choose favourite category on user registration - server
-102. Mass email to users on new link publish
-103. Update user profile - server
-104. Update user profile - client
-105. Update user in local storage
+13.1.87 All links for admin - server
+13.2.88 All links for admin - client
+13.3.89 canUpdateDeleteLink middleware
+13.4.90 Delete any link by admin
+13.5.91 Update any link by admin
 
-106. Trending Links - View Count
+14. Profile Update - Mass Email - AWS SES
 
-107. Most popular - Trending links - server
-108. Most popular - Trending links - client
-109. Click count - client
-110. Most popular link in given category
-111. Head section for SEO
+14.1.92 Choose favourite category on user registration - client
+14.2.93 Choose favourite category on user registration - server
+14.3.94 Mass email to users on new link publish
+14.4.95 Update user profile - server
+14.5.96 Update user profile - client
+14.6.97 Update user in local storage
 
-112. AWS IAM - EC2 - Route 53 and Deployment
+15. Trending Links - View Count
 
-     1. Push code to github
-     2. AWS IAM acces
+15.1.98 Most popular - Trending links - server
+15.2.99 Most popular - Trending links - client
+15.3.100 Click count - client
+15.4.101 Most popular link in given category
+15.5.102 Head section for SEO
 
-113. (TEXT) Resource to Install Node in EC2 4. AWS EC2 Instance 5. Running our projects in EC2
-114. (TEXT) Code Block for NGINX configuration 7. NGINX Configuration 8. Push code changes to EC2 9. Route 53 - Add domain
+16. AWS IAM - EC2 - Route 53 and Deployment
+
+    1. Push code to github
+    2. AWS IAM acces
+
+17. (TEXT) Resource to Install Node in EC2 4. AWS EC2 Instance 5. Running our projects in EC2
+18. (TEXT) Code Block for NGINX configuration 7. NGINX Configuration 8. Push code changes to EC2 9. Route 53 - Add domain
