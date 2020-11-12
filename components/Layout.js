@@ -10,19 +10,19 @@ const Layout = ({ children }) => {
     />
   )
   const nav = () => (
-    <ul className="nav">
+    <ul className="nav nav-tabs bg-warning">
       <li className="nav-item">
-        <a className="nav-link" href="">
+        <a className="nav-link text-dark" href="">
           Home
         </a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="">
+        <a className="nav-link text-dark" href="">
           Login
         </a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="">
+        <a className="nav-link text-dark" href="">
           Register
         </a>
       </li>
@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
     <React.Fragment>
       {head()}
       {nav()}
-      {children}
+      <div className="container pt-5 pb-5">{children}</div>
     </React.Fragment>
   )
 }

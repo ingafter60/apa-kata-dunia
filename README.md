@@ -72,6 +72,12 @@ https://github.com/ingafter60/apa-kata-dunia
         modified:   README.md
         modified:   components/Layout.js
 
+### 02.3.7 (2/2 - Adding Bootstrap 4 class) Head section
+
+        modified:   README.md
+        modified:   components/Layout.js
+
+
 02.4.8 Link component
 02.5.9 Nav progress bar
 02.6.10 Loading css
