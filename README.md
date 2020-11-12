@@ -65,7 +65,7 @@ https://github.com/ingafter60/apa-kata-dunia
 ### Github repository
 
         https://github.com/ingafter60/apa-kata-dunia
-       modified:   README.md
+        modified:   README.md
 
 ### 02.3.7 (1/2 - Adding Bootstrap 4) Head section
 
@@ -82,8 +82,10 @@ https://github.com/ingafter60/apa-kata-dunia
         new file:   pages/login.js
         new file:   pages/register.js
 
+### 02.4.8 (2/2 - Add route/linking the pages )Link component
 
-### 02.4.8 Link component
+        modified:   README.md
+        modified:   components/Layout.js
 
 02.5.9 Nav progress bar
 02.6.10 Loading css

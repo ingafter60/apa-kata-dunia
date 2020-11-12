@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 
 const Layout = ({ children }) => {
   const head = () => (
@@ -12,19 +13,15 @@ const Layout = ({ children }) => {
   const nav = () => (
     <ul className="nav nav-tabs bg-warning">
       <li className="nav-item">
-        <a className="nav-link text-dark" href="">
-          Home
-        </a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link text-dark" href="">
-          Login
-        </a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link text-dark" href="">
-          Register
-        </a>
+        <Link href="/">
+          <a className="nav-link text-dark">Home</a>
+        </Link>
+        <Link href="/login">
+          <a className="nav-link text-dark">Login</a>
+        </Link>
+        <Link href="/register">
+          <a className="nav-link text-dark">Register</a>
+        </Link>
       </li>
     </ul>
   )
